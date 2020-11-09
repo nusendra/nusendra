@@ -7,3 +7,5 @@
 📱 Always make a mobile apps with React Native.
 
 ### Here's my latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

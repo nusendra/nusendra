@@ -1,8 +1,9 @@
-### Hi there, sup evrybdy 👋
+### Hello everyone! 👋
 
-📫 How to reach me: https://nusendra.com.  
-🖥 Shared tutorials in https://leskoding.com and https://www.youtube.com/@leskoding.  
-🖥 Currently working on some of freelancer projects at Upwork and creating programming contents with Indonesia learning platform.  
-🛠 Current Programming language is TypeScript and JavaScript, nothing else.  
-🌏 Love to build web apps with Vue / Svelte, ExpressJS, GraphQL & Google Cloud.  
-📱 How about mobile apps? React Native to the rescue.
+You can contact me through my website: https://nusendra.com. I also share tutorials on https://leskoding.com and https://www.youtube.com/@leskoding.
+
+Currently, I am working on freelance projects on Upwork and creating programming content for an Indonesian learning platform. I specialize in TypeScript and JavaScript.
+
+My favorite tools for building web applications are Vue, Svelte, Astro, ExpressJS, GraphQL, and Google Cloud. For mobile apps, I prefer to use React Native.
+
+Feel free to reach out to me if you have any questions or projects you'd like to collaborate on!
